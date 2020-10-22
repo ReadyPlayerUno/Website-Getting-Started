@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to ReadyPlayerUno's homepage
+“Feel free to bookmark this to keep an eye on my project updates”
+
+change-title-description
 
 You can use the [editor on GitHub](https://github.com/ReadyPlayerUno/Website-Getting-Started/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
